@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SortingAlgorithmVisualizer/1.0.0": {
+        "dependencies": {
+          "ModelsLibrary": "1.0.0"
+        },
+        "runtime": {
+          "SortingAlgorithmVisualizer.dll": {}
+        }
+      },
+      "ModelsLibrary/1.0.0": {
+        "runtime": {
+          "ModelsLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SortingAlgorithmVisualizer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ModelsLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
